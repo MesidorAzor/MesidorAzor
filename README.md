@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MesidorAzor
+- 👋 Hi, I’m @Mesidor Azor
 - 👀 I’m interested in becoming an AWS Practicioner Professional
 - 🌱 I’m currently learning a mixture of languages such as GIT, Python, Linux, Networking as well as security
 - 💞️ I’m looking to collaborate with anyone who can help me master one of these languages.  So far I seem to like Python the most.
